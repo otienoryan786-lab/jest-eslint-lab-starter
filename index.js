@@ -1,8 +1,7 @@
-
 // Utility Functions
 
 /**
- * Capitalizes the first letter of each word in the input string.
+  * Capitalizes the first letter of each word in the input string.
  * @param {string} input - The input string.
  * @returns {string} - The formatted string.
  */
